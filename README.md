@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-Hi! I'm **Saad Ibrahim**, a passionate and detail-oriented **Frontend Developer** with hands-on experience in building responsive and interactive UIs using **React**, **Vue**, and **Tailwind CSS**. I enjoy writing clean code and creating pixel-perfect designs that provide a seamless user experience.
+Hi! I'm **Saad Ibrahim**, a detail-oriented **Frontend Developer** with hands-on experience in building responsive and interactive UIs using **React**, **Vue**, and **Tailwind CSS**. I enjoy writing clean code and creating pixel-perfect designs that provide a seamless user experience.
 
 ---
 
